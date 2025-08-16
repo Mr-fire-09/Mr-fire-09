@@ -30,6 +30,14 @@ Employees_Management_system
 
 - ⚡ Fun fact **Did you know that the first computer bug was actually a real bug? In 1947, Grace Hopper and her team at Harvard University found a moth trapped in a relay of the Mark II computer. They taped the moth into their logbook with the caption "First actual case of bug being found." This incident is often cited as the origin of the term "computer bug."**
 
+- <!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophies" />
+  </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ilsurojj-the-reactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ilsurojj-the-reactor" height="30" width="40" /></a>
