@@ -11,13 +11,14 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <p align="left"> <a href="https://twitter.com/nirajs09561279" target="blank"><img src="https://img.shields.io/twitter/follow/nirajs09561279?logo=twitter&style=for-the-badge" alt="nirajs09561279" /></a> </p>
 
-- 🔭 I’m currently working on [Creative Studio](https://github.com/Neeraj99990/Creative-Studio--project)
+- 🔭 I’m currently working on [
+Employees_Management_system
+](https://github.com/Mr-fire-09/Employees_Management_system-.git)
 
-- 🌱 I’m currently learning **Cyber Security **
+- 🌱 I’m currently learning ** DEVOPS **
 
-- 👯 I’m looking to collaborate on [Geeks 160](https://github.com/Neeraj99990/Geeks-160.git)
+- 👯 I’m looking to collaborate on [My Projects' ](https://github.com/Mr-fire-09)
 
-- 🤝 I’m looking for help with [Neeraj Photography](https://github.com/Neeraj99990/Niraj-Photography)
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
